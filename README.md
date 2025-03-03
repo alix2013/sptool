@@ -1,2 +1,4 @@
 # sptool
-IBMSpectrumProtect/TSM Log analyzer
+IBM Spectrum Protect/TSM Log analyzer
+I dev this tools to analyze IBM Spectrum Protect/TSM actlog
+
